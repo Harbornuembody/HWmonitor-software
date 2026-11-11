@@ -1,4 +1,4 @@
-# HWmonitor
+
 
 <p align="center">
   <strong>HWmonitor — Hardware Monitoring Software</strong>
