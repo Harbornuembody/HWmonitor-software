@@ -1,8 +1,6 @@
-
+# HWmonitor — Hardware Monitoring Software
 
 <p align="center">
-  <strong>HWmonitor — Hardware Monitoring Software</strong>
-  <br />
   A software project focused on monitoring and managing hardware performance.
 </p>
 
